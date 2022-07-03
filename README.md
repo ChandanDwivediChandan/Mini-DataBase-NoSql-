@@ -1,6 +1,6 @@
 <h1 align=center>MiniDB</h1>
 
-MiniDB is a type of [key-value](https://en.wikipedia.org/wiki/Key%E2%80%93value_database) like [XML Document Database](https://en.wikipedia.org/wiki/XML_database).
+Mini DataBase or MiniDB is a type of [key-value](https://en.wikipedia.org/wiki/Key%E2%80%93value_database) like [XML Document Database](https://en.wikipedia.org/wiki/XML_database).
 
 This is just a simple implementation, more-like a prototype and My first time doing it. So, The database design might not be as good and nor feature rich.
 
